@@ -25,3 +25,7 @@ Bot em
 
 ## Conta escolar
 [github.com/murilloyoung](https://github.com/murilloyoung)
+
+
+## Extras
+extensões favoritas: - 🐾 [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - 🎨 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
