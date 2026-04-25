@@ -5,7 +5,8 @@ sou um estudante da 2° série, em ensino integral. faço um curso integrado com
 para as atividades escolares, utilizo a webstack comum e para projetos pessoais utilizo python. 
 
 ## Projetos Atuais
-Meu bot em ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+Bot em 
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)
 
 ## Ferramentas que utilizo 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
