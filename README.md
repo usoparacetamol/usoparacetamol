@@ -19,8 +19,8 @@ Bot em
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 # Github Stats
-![GitHub Stats - usoparacetamol](https://reade.vercel.app/api?username=usoparacetamol&show_icons=true&theme=dracula)
-![Top Langs - usoparacetamol](https://reade.vercel.app/api/top-langs/?username=usoparacetamol&layout=compact&theme=dracula)
+![GitHub Stats - usoparacetamol](https://reade-poggers.vercel.app/api?username=usoparacetamol&show_icons=true&theme=dracula)
+![Top Langs - usoparacetamol](https://reade-poggers.vercel.app/api/top-langs/?username=usoparacetamol&layout=compact&theme=dracula)
 
 ## Conta escolar
 [github.com/murilloyoung](https://github.com/murilloyoung)
