@@ -21,7 +21,7 @@ Bot em
 # Github Stats
 ![GitHub Stats - usoparacetamol](https://github-readme-murilloyoung.vercel.app/api?username=usoparacetamol&show_icons=true&theme=dracula)
 ![Top Langs - usoparacetamol](https://github-readme-murilloyoung.vercel.app/api/top-langs/?username=usoparacetamol&layout=compact&theme=dracula)
-
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=usoparacetamol&theme=dracula)
 
 ## Extras
 extensões favoritas: - 🐾 [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - 🎨 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
