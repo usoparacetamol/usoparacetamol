@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 ## Sobre Mim
 prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais. 
 
