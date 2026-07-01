@@ -1,7 +1,7 @@
 ![banner](banner.jpg)
 
 ## Sobre Mim
-prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais. Considere olhar meu [portfolío]([https://github.com/usoparacetamol/portfolio](https://usoparacetamol.github.io/portfolio/))
+prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais. Considere olhar meu [portfólio](https://usoparacetamol.github.io/portfolio/)
 
 ## Projetos e Aprendizagem
 para as atividades escolares, utilizo a webstack comum e para projetos pessoais utilizo python. 
