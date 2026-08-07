@@ -1,7 +1,7 @@
 ![banner](banner.jpg)
 
 ## Sobre Mim
-prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais. Considere olhar meu [portfolio](https://usoparacetamol.github.io/portfolio/)
+prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais.
 
 ## Projetos e Aprendizagem
 para as atividades escolares, utilizo a webstack comum e para projetos pessoais utilizo python. 
@@ -24,6 +24,3 @@ Bot em
 ![GitHub Stats - usoparacetamol](https://github-readme-murilloyoung.vercel.app/api?username=usoparacetamol&show_icons=true&theme=dracula)
 ![Top Langs - usoparacetamol](https://github-readme-murilloyoung.vercel.app/api/top-langs/?username=usoparacetamol&layout=compact&theme=dracula)
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=usoparacetamol&theme=dracula)
-
-## Extras
-extensões favoritas: - 🐾 [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - 🎨 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
